@@ -1,4 +1,4 @@
-# SE4041 Practical 01
+# SE4041 Practical 02
 
 ## Student Information
 
